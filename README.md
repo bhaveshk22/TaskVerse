@@ -3,7 +3,8 @@
 TaskVerse is a full-stack task management application built with NestJS, Next.js, and MongoDB. It allows users to create, view, update, and delete tasks with different statuses.
 
 ## Screenshots
-![Screenshot (12)](https://github.com/user-attachments/assets/21356613-2495-4125-a594-df474781d8ca)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/3cf93713-f6de-4efa-ba94-fdcb106d9ee2)
 
 
 ## Features
